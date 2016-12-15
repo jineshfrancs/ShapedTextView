@@ -1,6 +1,8 @@
 # ShapedTextView
 Custom implementation of TextView to wrap the text into some shape.
-![Output sample](https://github.com/jineshfrancs/ShapedTextView/blob/master/screens/round.png)
+
+<img src="https://github.com/jineshfrancs/ShapedTextView/blob/master/screens/round.png" width="360" height="640">
+
 Add this in your Layout
 ```
       <test.jinesh.shapedtextview.ShapedTextView
