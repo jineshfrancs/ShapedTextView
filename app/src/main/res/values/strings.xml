@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShapedTextView</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lobortis malesuada orci, vel fermentum urna sollicitudin et. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis urna tellus, suscipit sed ex nec, finibus volutpat lacus. Nullam ut mauris felis. Aenean nec ullamcorper lorem.</string>
+</resources>
